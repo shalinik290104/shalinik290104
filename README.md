@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Shalini Kumari</h1>
+<h1 align="center">Hi , I'm Shalini Kumari</h1>
 <h3 align="center">Aspiring Data Analyst | AI/ML Enthusiast | Power BI Developer</h3>
 
 
 
 ---
 
-# 👋 About Me
+#  About Me
 
 🎓 B.Tech Computer Science Engineering (2022–2026)
 
@@ -87,17 +87,6 @@
 ✔ Business Analytics
 
 ---
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shalinik290104&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalinik290104&layout=compact&theme=tokyonight"/>
-
-</p>
-
 
 
 # ✨ Quote
