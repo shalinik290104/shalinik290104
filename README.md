@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shalini Kumari</h1>
 <h3 align="center">Aspiring Data Analyst | AI/ML Enthusiast | Power BI Developer</h3>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=shalinik290104&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+
 
 ---
 
@@ -100,17 +98,7 @@
 
 </p>
 
----
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shalinik290104&theme=tokyonight"/>
-
-</p>
-
----
 
 # ✨ Quote
 
